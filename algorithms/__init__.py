@@ -18,5 +18,6 @@ __all__ = [
     'GLRklUCB',
     'MonitoredUCB',
     'ChangeDetectorCD',
-    'UCB1_multiple_C', 'MultiAgentSystem_BO'
+    'UCB1_multiple_C', 'MultiAgentSystem_BO',
+    
 ]
