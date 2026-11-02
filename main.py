@@ -1,5 +1,10 @@
 import pandas as pd
-from environment import real_world_workloads
+from environment import (
+    real_world_workloads,
+    synthetic_workloads,
+    controlled_variance_workloads,
+    workloads2
+)
 from utils import run_methods
 
 

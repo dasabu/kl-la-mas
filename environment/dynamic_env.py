@@ -46,6 +46,7 @@ class DynamicEnvOrdered:
 
 
 class Env:
+    """For pretrained phase of each agent in DAMAS"""
     def __init__(self, mus, sigmas):
         self.mus = mus
         self.sigmas = sigmas
